@@ -2,6 +2,8 @@
 <h3 align="center">A Game Developer from Brazil that loves Kirby at a right rates</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gilbertobitt" alt="gilbertobitt" /> </p>
 
+<img title="cover" src="/cover_590x242.png" alt="d" width="767" data-align="center"></center>
+
 - 👨🏻‍💻 Game Developer at <u>Bitx Game Studio</u>.
 
 - ⚔️ Currently working on [Tap Tap Beer](https://play.google.com/store/apps/details?id=com.byaliens.bitx.taptapbeer&hl=en_US) and 2 more projects.
