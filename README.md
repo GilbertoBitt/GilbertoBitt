@@ -2,7 +2,7 @@
 <h3 align="center">A Game Developer from Brazil that loves Kirby at a right rates</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gilbertobitt" alt="gilbertobitt" /> </p>
 
-<img title="cover" src="/cover_590x242.png" alt="d" width="767" data-align="center"></center>
+<img title="cover" src="https://github.com/GilbertoBitt/GilbertoBitt/blob/master/cover_590x242.png" alt="d" width="767" data-align="center"></center>
 
 - 👨🏻‍💻 Game Developer at <u>Bitx Game Studio</u>.
 
