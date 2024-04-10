@@ -29,7 +29,7 @@ I'm a Game Developer 🎮 and Software Engineer 💻 currently studying Computer
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
 ![kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![objective-c](https://img.shields.io/badge/-Objective-C-333333?style=flat&logo=objective-c)
+![objective-c](https://img.shields.io/badge/-ObjectiveC-333333?style=flat&logo=objective-C)
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
