@@ -1,17 +1,28 @@
 ![](https://komarev.com/ghpvc/?gilbertobitt=iuricode&color=006bed)
 
-## About Me
+# Hello, I'm Gilberto! 👋
 
-- 👨‍💻 I'm a Game Developer and Software Engineer.
+I'm a Game Developer 🎮 and Software Engineer 💻 currently studying Computer Science 🎓 at EDX.org CS50. I'm working on a small game project 🕹️ and always learning new things 📚. You can find me on [Linkedin](https://www.linkedin.com/in/gilbertobitt/), or on [GitHub](https://github.com/GilbertoBitt).
+
+## 🚀 About Me
+
+- 👨‍💻 I'm currently working on a small game project 🕹️.
 - 🎓 I'm currently studying Computer Science at EDX.org CS50.
-- 🚀 I'm currently working on a small game project.
-- 💻 I'm currently learning objective-c, c++ and unreal engine.
-- 📚 I'm currently working small projects to improve my skills.
-- 📫 i'm planning to release small courses on youtube about game development and software engineering.
+- 💻 I'm currently learning Objective-C, C++ and Unreal Engine.
+- 📚 I'm working on small projects to improve my skills.
+- 📺 I'm planning to release small courses on YouTube about game development and software engineering.
 - 🎮 I'm a big fan of games and I love to play them.
-- 🤜🏼🤛🏼 you can find me on [Linkedin](https://www.linkedin.com/in/gilbertobitt/)
 
-## Skills
+## 🎓 Courses
+
+- Game Development with Unity
+- Software Engineering with Python
+- Computer Science with EDX.org CS50
+- Unreal Engine
+- Objective-C
+- C++
+
+## 🛠 Skills
 
 **Languages**
 
@@ -27,7 +38,19 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+
+**Databases**
+
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![SQL](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+
+**Engines**
+
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-333333?style=flat&logo=unreal-engine)
+![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
+![Godot](https://img.shields.io/badge/-Godot-333333?style=flat&logo=godot-engine)
 
 **Utils**
 
@@ -48,7 +71,6 @@
 **Tools**
 
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
-![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
 ![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=adobe-photoshop)
@@ -73,11 +95,13 @@
 
 <br/>
 
+## 📈 GitHub Stats
+
 <a href="https://github.com/iuricode" title="Gilberto's Profile">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilbertobitt&theme=dracula&show_icons=true" />
 </a>
 
-## Onde me encontrar
+## 📫 Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-gilbertobitt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilbertobitt/)](https://www.linkedin.com/in/gilbertobitt/)
 [![Gmail Badge](https://img.shields.io/badge/-gilbertobitt@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilbertobitt@outlook.com)](mailto:gilbertobitt@outlook.com)
